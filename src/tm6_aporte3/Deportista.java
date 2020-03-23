@@ -1,8 +1,5 @@
 package tm6_aporte3;
-
-
 import tm6_aporte1.Persona;
-
 /**
  *
  * @author PC 3

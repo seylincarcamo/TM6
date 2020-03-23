@@ -3,7 +3,6 @@ import tm6_aporte4.Ingeniero;
 import tm6_aporte3.Deportista;
 import tm6_aporte2.Doctor;
 import tm6_aporte1.Persona;
-
 /**
  *
  * @author PC 5
